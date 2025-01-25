@@ -96,5 +96,4 @@ def get_tadbirkorlik_query(item: Tadbirkorlik):
 
 @app.post("/konstitutsiya/") 
 def get_konstitutsiya_query(item: Konstitutsiya): 
-    # return query
     return return_konstitutsiya(item.query)
