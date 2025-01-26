@@ -1,2 +1,2 @@
-# raccoons_ai
+# Raccoons AI 
 AI based Law advisor. 
