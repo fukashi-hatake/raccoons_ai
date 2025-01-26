@@ -47,4 +47,14 @@ python telegram_bot/AIbot.py
 
 ### DEMO 
 
-<img src="demo/konstitutsiya_demo.png" width="50%" height="50%">  
+Konstitutsiya haqida savollar: 
+<img src="demo/konstitutsiya_demo.png" width="70%" height="70%">  
+
+Tadbirkorlikga oid savollar: 
+<img src="demo/tadbirkorlik_demo.png" width="70%" height="70%"> 
+
+Yo'l harakatidagi jarimalar savollar: 
+<img src="demo/pdd_jarima_demo.png" width="70%" height="70%">  
+
+Yo'l belgilariga oid savollar: 
+<img src="demo/yol_belgi_demo.png" width="70%" height="70%"> 
