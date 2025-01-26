@@ -18,3 +18,10 @@ Web page:
 
 Telegram bot: 
 - aiogram (https://aiogram.dev/)
+
+How to run: 
+
+API: 
+```console
+fastapi dev main.py
+```
