@@ -15,7 +15,7 @@ bhm = 375000
 flag = ""
 
 # Bot tokeningizni kiriting
-BOT_TOKEN = "7925240016:AAH82mbK_7EgnsLlU2F8Pk5uj8ZSIJGMCzE"
+BOT_TOKEN = "bot_token"
 
 
 # Bot va dispatcher obyektlari
