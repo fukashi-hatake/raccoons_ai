@@ -19,7 +19,8 @@ Web page:
 Telegram bot: 
 - aiogram (https://aiogram.dev/)
 
-How to run: 
+***
+How to use: 
 
 Clone our repo and install requirements: 
 
