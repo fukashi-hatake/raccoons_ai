@@ -11,7 +11,7 @@ Used Computer Vision models:
 - MobileNetV2 on Pytroch (https://pytorch.org/hub/pytorch_vision_mobilenet_v2/)
 
 Used API: 
-- Fast API
+- Fast API (https://fastapi.tiangolo.com/)
 
 Web page: 
 - Streamlit library in Python (https://streamlit.io/)
