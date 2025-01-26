@@ -8,7 +8,7 @@ Used language models:
 - Mini BERT (Bidirectional Encoder Representations from Transformers) 
 
 Used Computer Vision models: 
-- MobileNetV2 on Pytroch
+- MobileNetV2 on Pytroch (https://pytorch.org/hub/pytorch_vision_mobilenet_v2/)
 
 Used API: 
 - Fast API
