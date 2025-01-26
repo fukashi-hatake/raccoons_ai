@@ -1,0 +1,8 @@
+streamlit
+aiogram
+fastapi[standard]
+torch
+torchvision
+pandas
+sentence-transformers
+matplotlib
