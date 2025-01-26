@@ -21,7 +21,23 @@ Telegram bot:
 
 How to run: 
 
+Clone our repo and install requirements: 
+
+```console
+pip install -r requirements.txt
+```
+
 API: 
 ```console
-fastapi dev main.py
+fastapi dev api/main.py
+```
+
+Website: 
+```console
+streamlit run chat_web/Asosiy.py
+```
+
+Telegram: 
+```console
+python telegram_bot/AIbot.py
 ```
