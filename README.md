@@ -47,4 +47,4 @@ python telegram_bot/AIbot.py
 
 ### DEMO 
 
-<img src=“https://github.com/fukashi-hatake/raccoons_ai/blob/main/demo/konstitutsiya_demo.png”>
+<img src=“[https://github.com/fukashi-hatake/raccoons_ai/blob/main/demo/konstitutsiya_demo.png](https://github.com/fukashi-hatake/raccoons_ai/blob/main/demo/konstitutsiya_demo.png)”>
