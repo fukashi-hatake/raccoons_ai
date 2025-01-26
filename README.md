@@ -1,5 +1,6 @@
 # Raccoons AI 
 Project name: AI based Law advisor. 
+
 Project Description: Chatbot that can answer questions related to Constitution of Uzbekistan, laws about business and traffic rules. Additionally, you can upload images of traffic sign and get immediate answer about what kind of sign it is and rules related to this sign. 
 
 
